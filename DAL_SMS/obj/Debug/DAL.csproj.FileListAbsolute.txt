@@ -1,0 +1,11 @@
+D:\HocC#\SMS1\DAL_SMS\bin\Debug\DAL_SMS.dll
+D:\HocC#\SMS1\DAL_SMS\bin\Debug\DAL_SMS.pdb
+D:\HocC#\SMS1\DAL_SMS\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HocC#\SMS1\DAL_SMS\obj\Debug\DAL_SMS.dll
+D:\HocC#\SMS1\DAL_SMS\obj\Debug\DAL_SMS.pdb
+D:\HocC#\hieu\DAL_SMS\bin\Debug\DAL_SMS.dll
+D:\HocC#\hieu\DAL_SMS\bin\Debug\DAL_SMS.pdb
+D:\HocC#\hieu\DAL_SMS\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HocC#\hieu\DAL_SMS\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HocC#\hieu\DAL_SMS\obj\Debug\DAL_SMS.dll
+D:\HocC#\hieu\DAL_SMS\obj\Debug\DAL_SMS.pdb
